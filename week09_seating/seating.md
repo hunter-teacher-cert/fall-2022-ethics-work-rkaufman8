@@ -1,34 +1,20 @@
-### First Priority: special needs passengers and their party
-**Determine how many passengers in group**
-* if <= 2, assign block of 2 together regardless
+# PLANE SEATING ASSIGNMENT 
+## Brainstorming Ethical Modifications
 
-* else if > 2, how many require special boarding or seat location?
-    * if > 1 special case, **more than one companion passenger?**
+*After discussing this at length with my first and 2nd group and eventually with partners for this assignment, we agreed on the following:*
 
-      **yes:** split special cases evenly by companion, allow sub groups to sit together for additional money (even though I think they should be allowed to block together for no fee)
+- allow for parties of 2 max to request to sit together with proof of
+  - assistance needed due to health reasons or impairment
+  - a child in need of accompaniment by relative/guardian
+    - **REASONING:** Allow parents to supervise child and an individual to receive necessary assistance; this is for obvious ethical and safety reasons
+>
+- no option for economy plus seating
+    - **REASONING:** With steady demand and the dynamics involved with changing fares alone, the industry is making quite the profit already; removing economy plus options, as it was in the past, can prevent unethical situations and does not create an unethical circumstance, assuming that accommodations are already considered   
+>
+- bulkhead seats blocked out/reserved for those with accomodations up until 2 days before flight
+  - **REASONING:** US Dept of Transportation requires blcoking out certain seats for accommodating for service animals or fused legs; should also reserve for those who submit proof of conditions that need this physical accommodation
+>
+- optional: give preference for window seating at an extra price by moving an already assigned seat on the left side over one and already assigned seat on the right side back one (blocked out accommodation seats such as verified pairs and bulkhead seats excluded); to make it more manageable, if there is no case where there is an available seat after one move, then this preference is rendered unavailable
+    - **REASONING:** although it isn't an official medical condition, a group member pointed out that in their frequent flyer days, he encountered many who clearly needed a window seat to prevent excessive vomitting; this is an opportunity to cater to the company with an opportunity for profit while still not throwing off the policies put in place to aim for equity
+  
 
-      **no:** all special cases sit together with companion
-
-
-**Allow choice of exit row or other accommodation.**
-
----
-### Secondary Priority: family together
-
-**Determine how many passengers in group**
-  * if <= 2, assign block of 2 together regardless
-
-  * else if > 2, how many under 18?
-    * if 0 under 18
-      * if 3 total passengers, seat together
-      * else if > 3 total passengers, split into pairs + triads as necessary and allow seat choice together
-    
-    * else if >= 1 under 18, **more than one passenger equal to or over 18?**
-
-        **yes:** split under 13s evenly by number of 18s+, allow sub groups to sit together for additional money (even though I think they should be allowed to block together for no fee)
-
-        **no:** all under 13s sit together with 18+
----
-### Tertiary priority: People willing to pay for custom seats
----
-### Quarternary priority: Singles unwilling to pay for custom seats
